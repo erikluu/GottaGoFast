@@ -44,12 +44,11 @@ struct ButtonLayout: View {
             Spacer()
             
             Button(action: {
-                .
-                
+                viewRouter.currentPage = .page2
             }) {
                 Image(systemName: "play.fill").foregroundColor(.blue).padding(-15.0).font(.system(size: 30))
-                
-                
+
+
             }.buttonStyle(GrowingButton())
             
             Spacer()
