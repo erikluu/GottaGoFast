@@ -4,7 +4,5 @@ This is a side project in which I try to make my own version of the popular runn
 
 I am currently using Swift and MongoDB but I think I may transition to React Native for the front-end as it is much more universal.
 
-![alt text](./img1.png)
-![alt text](./img2.png)
-![alt text](./img3.png)
+
 
