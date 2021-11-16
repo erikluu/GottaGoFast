@@ -1,4 +1,4 @@
-# gottaGoFast
+# GottaGoFast
 
 This is a side project in which I try to make my own version of the popular running app Strava. I want to incorporate a front-end user friendly interface with a back-end database to store all information. 
 
